@@ -22,7 +22,7 @@ function App() {
   const loadItem = () => {
     setItems([
       { id: 1, name: "Item Number 1", count: 0 },
-      { id: 2, name: "Item Number 2", count: 1 },
+      { id: 2, name: "Item Number 2", count: 0 },
       { id: 3, name: "Item Number 3", count: 0 },
       { id: 4, name: "Item Number 4", count: 0 },
       { id: 5, name: "Item Number 5", count: 0 },
