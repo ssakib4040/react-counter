@@ -1,0 +1,45 @@
+.counter-container {
+  max-width: 600px;
+  margin: 4rem auto;
+  padding: 1rem;
+  border: 12px solid #0d6efd !important;
+  background: rgb(14, 136, 250, 0.2);
+  border-radius: 15px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  justify-content: center;
+}
+
+.counter__nav_cart {
+  font-size: 2rem;
+  color: rgb(78, 76, 76);
+  /* transform: scale(1.5); */
+  /* padding: 2rem ; */
+}
+
+.counter__nav_pill {
+  background: #0d6efd;
+  color: #fff;
+  padding: 1px 9px;
+  display: flex;
+  border-radius: 5px;
+}
+
+/* content */
+.content__action_wrap {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+  gap: 10px;
+}
+
+.counter__items_wrap {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 0.5rem;
+}
